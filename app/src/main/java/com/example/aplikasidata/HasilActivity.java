@@ -12,7 +12,7 @@ public class HasilActivity extends AppCompatActivity {
 //tes android studio
     private TextView txtEmail,txtPassword;
     private Button btnReset;
-
+//viony
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
