@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class HasilActivity extends AppCompatActivity {
-
+//tes android studio
     private TextView txtEmail,txtPassword;
     private Button btnReset;
 
